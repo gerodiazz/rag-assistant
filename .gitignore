@@ -40,6 +40,9 @@ uploads/
 # macOS
 .DS_Store
 
+# Documentación generada localmente
+*.pdf
+
 # Logs
 *.log
 logs/
